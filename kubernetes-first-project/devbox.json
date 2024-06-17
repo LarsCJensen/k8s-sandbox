@@ -1,0 +1,12 @@
+{
+    "packages": [
+      "kind@latest",
+      "kubectl@latest",
+      "kubernetes-helm@latest",
+      "krew@latest",
+      "kubectx@latest",
+      "k9s@latest",
+      "jq@latest",
+      "vault@latest"
+    ]
+  }
