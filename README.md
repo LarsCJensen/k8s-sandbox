@@ -1,6 +1,7 @@
 ## Repo for Kubernetes tests ##
 ### First project ###
-* Test
-### First project ###
-
-* Test2
+* Helm
+* DevBox
+* Make
+### Learning Kubernets ###
+* Basics
